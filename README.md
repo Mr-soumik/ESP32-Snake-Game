@@ -12,8 +12,8 @@
 **Built by TechTadka360**
 
 [![YouTube](https://img.shields.io/badge/YouTube-TechTadka360-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@techtadka360official)
-[![Instagram](https://img.shields.io/badge/Instagram-TechTadka360-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](ADD_YOUR_INSTAGRAM_LINK)
-[![Facebook](https://img.shields.io/badge/Facebook-TechTadka360-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](ADD_YOUR_FACEBOOK_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-TechTadka360-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techtadka360official?rpxt=cWR4bnhjdWw1MHdh)
+[![Facebook](https://img.shields.io/badge/Facebook-TechTadka360-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1JTPQ3GWBm/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mr--soumik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-soumik)
 
 [Watch the Build Video](#-demo) · [Circuit Diagram](#-circuit-diagram) · [Wiring](#-wiring) · [Installation](#-installation) · [How to Play](#-how-to-play)
