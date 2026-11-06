@@ -24,7 +24,8 @@
 
 ## 📸 Demo
 
-<img width="1840" height="4096" alt="IMG_20261105_153250 jpg" src="https://github.com/user-attachments/assets/d3ceeb0d-b255-45d2-ab8b-58e00e967209" />
+<img width="1840" height="2137" alt="IMG_20261105_153250 jpg" src="https://github.com/user-attachments/assets/47a09abf-e49c-405a-a75b-40ccccba5306" />
+
 
 ### 🎥 Watch the full build on every platform
 
@@ -36,11 +37,7 @@
 
 ### 🔌 Circuit Diagram
 
-<div align="center">
-
-![Circuit Diagram](circuit_diagram.svg)
-
-</div>
+<img width="1102" height="787" alt="Screenshot 2026-11-06 110817" src="https://github.com/user-attachments/assets/1112da35-c7ad-472c-aaf9-fc432879b12b" />
 
 ---
 
