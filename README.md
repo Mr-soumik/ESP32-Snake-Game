@@ -16,7 +16,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-TechTadka360-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1JTPQ3GWBm/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mr--soumik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-soumik)
 
-[Watch the Build Video](#-demo) · [Circuit Diagram](#-circuit-diagram) · [Wiring](#-wiring) · [Installation](#-installation) · [How to Play](#-how-to-play)
+[Watch the Build Video](https://youtube.com/shorts/x55ezZsaaZk?si=QbjqHQfO2w8rwhBF) · [Circuit Diagram](#-circuit-diagram) · [Wiring](#-wiring) · [Installation](#-installation) · [How to Play](#-how-to-play)
 
 </div>
 
