@@ -34,7 +34,7 @@
 
 | Platform | Link |
 |---|---|
-| ▶️ YouTube | [Watch the Snake game video](ADD_YOUTUBE_VIDEO_LINK) |
+| ▶️ YouTube | https://youtube.com/shorts/x55ezZsaaZk?si=Ih16VS9O-Yb81-Wr
 | 📸 Instagram | [Watch the Snake game reel](ADD_INSTAGRAM_VIDEO_LINK) |
 | 📘 Facebook | [Watch the Snake game video](ADD_FACEBOOK_VIDEO_LINK) |
 
