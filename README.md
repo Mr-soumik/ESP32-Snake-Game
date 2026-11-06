@@ -276,8 +276,8 @@ This project is released under the **MIT License**. You are free to use, modify 
 
 - GitHub: [@Mr-soumik](https://github.com/Mr-soumik)
 - YouTube: [TechTadka360](https://www.youtube.com/@techtadka360official)
-- Instagram: [TechTadka360](ADD_YOUR_INSTAGRAM_LINK)
-- Facebook: [TechTadka360](ADD_YOUR_FACEBOOK_LINK)
+- Instagram: [TechTadka360](https://www.instagram.com/techtadka360official?rpxt=cWR4bnhjdWw1MHdh)
+- Facebook: [TechTadka360](https://www.facebook.com/share/1JTPQ3GWBm/)
 
 <div align="center">
 
