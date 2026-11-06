@@ -24,11 +24,7 @@
 
 ## 📸 Demo
 
-<div align="center">
-
-![ESP32 Snake Game Demo](images/demo.jpg)
-
-</div>
+<img width="1840" height="4096" alt="IMG_20261105_153250 jpg" src="https://github.com/user-attachments/assets/d3ceeb0d-b255-45d2-ab8b-58e00e967209" />
 
 ### 🎥 Watch the full build on every platform
 
